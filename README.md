@@ -61,6 +61,16 @@ Saya telah berhasil melakukan seeder database, dan sekarang table tersebut dapat
 
 ![ss](docs/img/p1ss11.png)
 
+#### Langkah 7
+![ss](docs/img/p1ss12.png)
+
+#### Soal 4
+Saya dapat query database langsung melalui vercel
+
+![ss](docs/img/p1ss13.png)
+
+- berikut contoh hasil query saya dimana saya memilih kolom nama dari table customers jika email customers tersebut adalah steph@dietz.com
+
 
 
 
