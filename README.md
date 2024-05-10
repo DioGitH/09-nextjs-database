@@ -35,6 +35,21 @@ Membuat project
 #### Soal 1
 ![ss](docs/img/p1soal1.png)
 
+Saya telah berhasil mendeploy project saya ke vercel
+
+#### Langkah 4
+![ss](docs/img/p1ss5.png)
+
+#### Langkah 5
+![ss](docs/img/p1ss6.png)
+
+#### Soal 2
+![ss](docs/img/p1ss7.png)
+
+Saya telah mempelajari bagaimana cara membuat database dan menghubungkan dengan lokal dengan vercel
+
+
+
 ## Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=maulidiobisnis16@gmail.com)
