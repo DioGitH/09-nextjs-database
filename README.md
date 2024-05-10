@@ -48,6 +48,21 @@ Saya telah berhasil mendeploy project saya ke vercel
 
 Saya telah mempelajari bagaimana cara membuat database dan menghubungkan dengan lokal dengan vercel
 
+#### Langkah 6
+![ss](docs/img/p1ss8.png)
+
+#### Error
+![ss](docs/img/p1ss9error.png)
+
+#### Soal 3
+![ss](docs/img/p1ss10.png)
+
+Saya telah berhasil melakukan seeder database, dan sekarang table tersebut dapat dilihat pada vercel milik saya
+
+![ss](docs/img/p1ss11.png)
+
+
+
 
 
 ## Contact Me
