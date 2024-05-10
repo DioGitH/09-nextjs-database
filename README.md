@@ -71,6 +71,27 @@ Saya dapat query database langsung melalui vercel
 
 - berikut contoh hasil query saya dimana saya memilih kolom nama dari table customers jika email customers tersebut adalah steph@dietz.com
 
+### Praktikum 2
+
+#### Langkah 1
+![ss](docs/img/p2ss1.png)
+
+#### Langkah 2
+![ss](docs/img/p2ss2.png)
+
+#### Langkah 3
+![ss](docs/img/p2ss3.png)
+
+#### Langkah 4
+![ss](docs/img/p2ss4.png)
+
+#### Langkah 5
+![ss](docs/img/p2ss5.png)
+
+#### Langkah 6
+![ss](docs/img/p2ss6.png)
+
+
 
 
 
