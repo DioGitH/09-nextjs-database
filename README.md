@@ -103,6 +103,9 @@ Saya dapat query database langsung melalui vercel
 ![ss](docs/img/p2ss8.png)
 
 
+#### Soal 7
+![ss](docs/img/p2ss9.png)
+
 
 
 
