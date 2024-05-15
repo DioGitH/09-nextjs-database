@@ -96,7 +96,11 @@ Saya dapat query database langsung melalui vercel
 
 - [Hasil Deploy](https://09-nextjs-database-three.vercel.app/)
 
+#### Langkah 7
+![ss](docs/img/p2ss7.png)
 
+#### Soal 6
+![ss](docs/img/p2ss8.png)
 
 
 
