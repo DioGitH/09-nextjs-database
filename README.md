@@ -102,12 +102,23 @@ Saya dapat query database langsung melalui vercel
 #### Soal 6
 ![ss](docs/img/p2ss8.png)
 
+data dari revenueFetch diubah ke data map dan selanjutnya baru ditampilkan di halaman page.tsx dengan <RevenueChart/>
 
 #### Soal 7
 ![ss](docs/img/p2ss9.png)
 
+pertama pada model query data diakses dengan function fetchLatesInvoices dan menambahkan limit 5 agar data yang diambil hanya 5, selanjutnya sama seperti revenueFetch, data diubah ke map dahulu setelah itu baru ditampilkan
 
+### Tugas
 
+#### Soal 1
+![ss](docs/img/tugas1.png)
+
+![ss](docs/img/tugas11.png)
+
+#### Soal 2
+
+Function fetchCardData digunakan untuk mengambil total data invoice dengan status paid atau pending dan customers yang selanjutnya hasil tersebut dijadikan data number yang akan direturn.
 
 ## Contact Me
 
